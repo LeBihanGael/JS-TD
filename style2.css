@@ -1,0 +1,15 @@
+.styleclass {
+    color: red;
+    font-size: xx-large;
+}
+.newstyleclass {
+    color: blue;
+    font-size: xx-large;
+}
+
+
+.classVisi {
+    background-color: red;
+    font-size: xx-large;
+    visibility: visible;
+}
